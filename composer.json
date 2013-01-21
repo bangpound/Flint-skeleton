@@ -1,6 +1,7 @@
 {
     "name" : "henrikbjorn/flint-skeleton",
     "description" : "The Flint Skeleton",
+    "license" : "MIT",
     "autoload" : {
         "psr-0" : { "" : "src/" }
     },
