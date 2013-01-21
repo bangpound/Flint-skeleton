@@ -1,0 +1,12 @@
+{
+    "name" : "henrikbjorn/flint-skeleton",
+    "description" : "The Flint Skeleton",
+    "autoload" : {
+        "psr-0" : { "" : "src/" }
+    },
+    "require" : {
+        "php"               : ">=5.3.3.",
+        "silex/silex"       : "~1.0@dev",
+        "henrikbjorn/flint" : "~1.0@dev"
+    }
+}
