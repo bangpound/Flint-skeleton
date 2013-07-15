@@ -6,8 +6,8 @@
         "psr-0" : { "" : "src/" }
     },
     "require" : {
-        "php"               : ">=5.3.3.",
-        "silex/silex"       : "~1.0@dev",
-        "henrikbjorn/flint" : "~1.0@dev"
+        "php"          : ">=5.3.3.",
+        "flint/flint"  : "~1.4",
+        "symfony/yaml" : "~2.3"
     }
 }
