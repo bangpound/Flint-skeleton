@@ -7,7 +7,6 @@
     },
     "require" : {
         "php"               : ">=5.3.3.",
-        "silex/silex"       : "~1.0@dev",
-        "henrikbjorn/flint" : "~1.0@dev"
+        "flint/flint"       : "~1.5@dev"
     }
 }
