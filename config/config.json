@@ -1,0 +1,4 @@
+{
+    "routing.resource": "routing.xml",
+    "twig.path": "%root_dir%/views"
+}
